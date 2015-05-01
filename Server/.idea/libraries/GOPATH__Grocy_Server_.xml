@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;Grocy.Server&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../.idea" />
+      <root url="file://$PROJECT_DIR$/../../.idea" />
+      <root url="file://$PROJECT_DIR$/../.DS_Store" />
+      <root url="file://$PROJECT_DIR$/../../slack" />
+      <root url="file://$PROJECT_DIR$/../../.DS_Store" />
+      <root url="file://$PROJECT_DIR$/../../firsttest" />
+      <root url="file://$PROJECT_DIR$/../../martiniApi" />
+      <root url="file://$PROJECT_DIR$/../../Grocy_Test1" />
+      <root url="file://$PROJECT_DIR$/../../Grocy.Server" />
+      <root url="file://$PROJECT_DIR$/../../imageProcessing" />
+      <root url="file://$PROJECT_DIR$/../../../packages" />
+      <root url="file://$PROJECT_DIR$/../../../.DS_Store" />
+      <root url="file://$PROJECT_DIR$/../../../github.com" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
