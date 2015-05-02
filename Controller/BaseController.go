@@ -1,6 +1,6 @@
 package Controller
 import (
-    "packages/github.com/go-martini/martini"
+    "local/Grocy/Godeps/_workspace/src/packages/github.com/go-martini/martini"
 )
 
 
