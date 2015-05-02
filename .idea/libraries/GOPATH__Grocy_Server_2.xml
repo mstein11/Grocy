@@ -3,7 +3,11 @@
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../../../.idea" />
       <root url="file://$PROJECT_DIR$/../../.idea" />
+      <root url="file://$PROJECT_DIR$/../.git" />
+      <root url="file://$PROJECT_DIR$/../LICENSE" />
+      <root url="file://$PROJECT_DIR$/../Procfile" />
       <root url="file://$PROJECT_DIR$/../.DS_Store" />
+      <root url="file://$PROJECT_DIR$/../.gitignore" />
       <root url="file://$PROJECT_DIR$/../../slack" />
       <root url="file://$PROJECT_DIR$/../../.DS_Store" />
       <root url="file://$PROJECT_DIR$/../../firsttest" />
