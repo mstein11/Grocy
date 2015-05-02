@@ -13,6 +13,7 @@ type BaseController struct {
 //Here the routing is configured
 func (c BaseController) HandleRouting(router martini.Router) {
     router.Get("/", c.TestController.TestAction)
+    router.Get("/test/database", c.TestController.TestDatabase)
 }
 
 func GetBaseController() *BaseController {
