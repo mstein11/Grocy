@@ -8,12 +8,15 @@
       <root url="file://$PROJECT_DIR$/../.DS_Store" />
       <root url="file://$PROJECT_DIR$/../firsttest" />
       <root url="file://$PROJECT_DIR$/../martiniApi" />
+      <root url="file://$PROJECT_DIR$/../Codecheck_test" />
       <root url="file://$PROJECT_DIR$/../imageProcessing" />
+      <root url="file://$PROJECT_DIR$/../../gopkg.in" />
       <root url="file://$PROJECT_DIR$/../../packages" />
       <root url="file://$PROJECT_DIR$/../../.DS_Store" />
       <root url="file://$PROJECT_DIR$/../../labix.org" />
       <root url="file://$PROJECT_DIR$/../../github.com" />
       <root url="file://$PROJECT_DIR$/../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../code.google.com" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

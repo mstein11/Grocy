@@ -47,3 +47,18 @@ func db() martini.Handler {
 		c.Next()
 	}
 }
+//
+//func UserMapper(c martini.Context, req *http.Request) {
+//	var token = req.Form.Get("uid")
+//	jwtToken, err := jwt.Parse(token, func(token *jwt.Token) (interface{}, error) {
+//		return []byte("WauWau123"), nil
+//	})
+//
+//	if err == nil && jwtToken.Valid {
+//		var currentUser = Models.CurrentUserModel{jwtToken.Claims["userid"].(string)}
+//		c.Map(currentUser)
+//		c.Next()
+//	} else {
+//		c.Next()
+//	}
+//}
